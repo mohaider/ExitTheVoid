@@ -66,7 +66,12 @@ public class PlayerControl : MonoBehaviour {
 
 		Animate ();
         UpdateInfo();
+        if (!isRidingElevator)
+        {
+            JumpWithCircleColliderAttached();
+            Movement2();
 
+        }
 	}
     void UpdateInfo()
     {
@@ -80,12 +85,7 @@ public class PlayerControl : MonoBehaviour {
 
     void FixedUpdate()
     {
-        if (!isRidingElevator)
-        {
-            JumpWithCircleColliderAttached();
-            Movement();
-            
-        }
+    
 
 
     }
@@ -111,15 +111,22 @@ public class PlayerControl : MonoBehaviour {
 
         else if (!isLanded)
         {
-            float theta = Mathf.Atan2(transform.position.y, jumpingPoint.x);
+
+            float adj = transform.position.x - jumpingPoint.x;
+            float opp = transform.position.y - jumpingPoint.y;
+
+           // float theta = Mathf.Atan2(transform.position.y, jumpingPoint.x);
+            float theta = Mathf.Atan2(opp, adj);
             information[0] = "theta: " + theta;
             float prevVel = rigidbody2D.velocity.x;
             information[1] = "prevVel: " + prevVel;
+            
 
+           // float hv = 50f*Time.fixedDeltaTime * Mathf.Cos(theta ) * prevVel;
 
-            float hv = 48.5f*Time.fixedDeltaTime * Mathf.Cos(theta ) * prevVel;
+            float hv = 50f*Time.fixedDeltaTime * Mathf.Cos(theta) * prevVel;
             information[2] = "hv: " + hv;
-//            print(theta);
+
             if (hv > -0.1 && hv < 0.1)
                 hv = 0;
             print("fixedDeltaTime: " + Time.fixedDeltaTime);
@@ -135,7 +142,37 @@ public class PlayerControl : MonoBehaviour {
 			Flip ();
 
 	}
+    void Movement2()
+    {
 
+        moveHorizontally = Input.GetAxis("Horizontal");  	//for buttons a,d
+        Vector2 horizontalSpeed = new Vector2(); 
+        
+        float hSpeed = moveHorizontally * speed;
+
+
+        if (isLanded)
+            horizontalSpeed = new Vector2(hSpeed, rigidbody2D.velocity.y);
+
+
+        else if (!isLanded)
+        {
+            float prevVel = rigidbody2D.velocity.x;
+            information[0] = "prevVel: " + prevVel;
+
+            float newVel = Mathf.Lerp(prevVel, 0, Time.deltaTime) + (moveHorizontally * speed* 0.03f);
+            information[1] = "newVel: " + newVel;
+
+
+            horizontalSpeed = new Vector2(newVel, rigidbody2D.velocity.y);
+        }
+
+
+        rigidbody2D.velocity = horizontalSpeed;
+
+        if (moveHorizontally > 0 && !lookingRight || moveHorizontally < 0 && lookingRight)
+            Flip();
+    }
     
 
     /*
@@ -259,6 +296,7 @@ public class PlayerControl : MonoBehaviour {
             information[3] = "current velocity" + rigidbody2D.velocity.x;
 			rigidbody2D.AddForce(new Vector2(f, playerJumpForceVertical));
             information[4] = "jumping point " + jumpingPoint;
+            
 		}
         //else if (Input.GetButtonUp("Jump") && rigidbody2D.velocity.y > 0)
         //{
