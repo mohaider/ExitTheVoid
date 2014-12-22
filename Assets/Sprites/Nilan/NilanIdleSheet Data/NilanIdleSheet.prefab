@@ -1,0 +1,428 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &100000
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 400000}
+  - 114: {fileID: 11400000}
+  m_Layer: 0
+  m_Name: NilanIdleSheet
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &400000
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100000}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100000}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d546f34a90531a14eaba82a43b05b86b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 3
+  materialIdsValid: 1
+  needMaterialInstance: 0
+  spriteDefinitions:
+  - name: idleanimation/0
+    boundsData:
+    - {x: .03125, y: -.03125, z: 0}
+    - {x: 1.8125, y: 5.0625, z: 0}
+    untrimmedBoundsData:
+    - {x: 0, y: -.015625, z: 0}
+    - {x: 1.875, y: 5.15625, z: 0}
+    texelSize: {x: .03125, y: .03125}
+    positions:
+    - {x: -.875, y: -2.5625, z: 0}
+    - {x: .8125, y: -2.5625, z: 0}
+    - {x: -.875, y: -.59375006, z: 0}
+    - {x: .8125, y: -.59375006, z: 0}
+    - {x: -.71875, y: -.59375006, z: 0}
+    - {x: .87499994, y: -.59375006, z: 0}
+    - {x: -.71875, y: 1.40624988, z: 0}
+    - {x: .87499994, y: 1.40624988, z: 0}
+    - {x: -.78125, y: 1.40624988, z: 0}
+    - {x: .9375, y: 1.40624988, z: 0}
+    - {x: -.78125, y: 2.5, z: 0}
+    - {x: .9375, y: 2.5, z: 0}
+    normals: []
+    tangents: []
+    uvs:
+    - {x: .00781640597, y: .00781640597}
+    - {x: .218746096, y: .00781640597}
+    - {x: .00781640597, y: .253902346}
+    - {x: .218746096, y: .253902346}
+    - {x: .00781640597, y: .792972684}
+    - {x: .00781640597, y: .992183566}
+    - {x: .257808596, y: .792972684}
+    - {x: .257808596, y: .992183566}
+    - {x: .273441404, y: .765628934}
+    - {x: .273441404, y: .980464816}
+    - {x: .410152346, y: .765628934}
+    - {x: .410152346, y: .980464816}
+    indices: 000000000300000001000000020000000300000000000000040000000700000005000000060000000700000004000000080000000b000000090000000a0000000b00000008000000
+    material: {fileID: 2100000, guid: a24956fa70276574c9b52b4f6736e9fa, type: 2}
+    materialId: 0
+    sourceTextureGUID: 4c4cf71e81e3e41448815443d0b59de2
+    extractRegion: 1
+    regionX: 0
+    regionY: 347
+    regionW: 60
+    regionH: 165
+    flipped: 0
+    complexGeometry: 0
+    physicsEngine: 0
+    colliderType: 0
+    customColliders: []
+    colliderVertices: []
+    colliderIndicesFwd: 
+    colliderIndicesBack: 
+    colliderConvex: 0
+    colliderSmoothSphereCollisions: 0
+    polygonCollider2D: []
+    edgeCollider2D: []
+    attachPoints: []
+  - name: idleanimation/1
+    boundsData:
+    - {x: .03125, y: -.03125, z: 0}
+    - {x: 1.8125, y: 5.0625, z: 0}
+    untrimmedBoundsData:
+    - {x: 0, y: -.015625, z: 0}
+    - {x: 1.875, y: 5.15625, z: 0}
+    texelSize: {x: .03125, y: .03125}
+    positions:
+    - {x: -.875, y: -2.5625, z: 0}
+    - {x: .8125, y: -2.5625, z: 0}
+    - {x: -.875, y: -.59375006, z: 0}
+    - {x: .8125, y: -.59375006, z: 0}
+    - {x: -.71875, y: -.59375006, z: 0}
+    - {x: .87499994, y: -.59375006, z: 0}
+    - {x: -.71875, y: 1.40624988, z: 0}
+    - {x: .87499994, y: 1.40624988, z: 0}
+    - {x: -.78125, y: 1.40624988, z: 0}
+    - {x: .9375, y: 1.40624988, z: 0}
+    - {x: -.78125, y: 2.5, z: 0}
+    - {x: .9375, y: 2.5, z: 0}
+    normals: []
+    tangents: []
+    uvs:
+    - {x: .00781640597, y: .269535154}
+    - {x: .218746096, y: .269535154}
+    - {x: .00781640597, y: .515621066}
+    - {x: .218746096, y: .515621066}
+    - {x: .00781640597, y: .792972684}
+    - {x: .00781640597, y: .992183566}
+    - {x: .257808596, y: .792972684}
+    - {x: .257808596, y: .992183566}
+    - {x: .425785154, y: .765628934}
+    - {x: .425785154, y: .980464816}
+    - {x: .562496066, y: .765628934}
+    - {x: .562496066, y: .980464816}
+    indices: 000000000300000001000000020000000300000000000000040000000700000005000000060000000700000004000000080000000b000000090000000a0000000b00000008000000
+    material: {fileID: 2100000, guid: a24956fa70276574c9b52b4f6736e9fa, type: 2}
+    materialId: 0
+    sourceTextureGUID: 4c4cf71e81e3e41448815443d0b59de2
+    extractRegion: 1
+    regionX: 60
+    regionY: 347
+    regionW: 60
+    regionH: 165
+    flipped: 0
+    complexGeometry: 0
+    physicsEngine: 0
+    colliderType: 0
+    customColliders: []
+    colliderVertices: []
+    colliderIndicesFwd: 
+    colliderIndicesBack: 
+    colliderConvex: 0
+    colliderSmoothSphereCollisions: 0
+    polygonCollider2D: []
+    edgeCollider2D: []
+    attachPoints: []
+  - name: idleanimation/2
+    boundsData:
+    - {x: .03125, y: -.03125, z: 0}
+    - {x: 1.8125, y: 5.0625, z: 0}
+    untrimmedBoundsData:
+    - {x: 0, y: -.015625, z: 0}
+    - {x: 1.875, y: 5.15625, z: 0}
+    texelSize: {x: .03125, y: .03125}
+    positions:
+    - {x: -.875, y: -2.5625, z: 0}
+    - {x: .8125, y: -2.5625, z: 0}
+    - {x: -.875, y: -.59375006, z: 0}
+    - {x: .8125, y: -.59375006, z: 0}
+    - {x: -.71875, y: -.59375006, z: 0}
+    - {x: .87499994, y: -.59375006, z: 0}
+    - {x: -.71875, y: 1.40624988, z: 0}
+    - {x: .87499994, y: 1.40624988, z: 0}
+    - {x: -.78125, y: 1.40624988, z: 0}
+    - {x: .9375, y: 1.40624988, z: 0}
+    - {x: -.78125, y: 2.5, z: 0}
+    - {x: .9375, y: 2.5, z: 0}
+    normals: []
+    tangents: []
+    uvs:
+    - {x: .00781640597, y: .00781640597}
+    - {x: .218746096, y: .00781640597}
+    - {x: .00781640597, y: .253902346}
+    - {x: .218746096, y: .253902346}
+    - {x: .00781640597, y: .792972684}
+    - {x: .00781640597, y: .992183566}
+    - {x: .257808596, y: .792972684}
+    - {x: .257808596, y: .992183566}
+    - {x: .449222654, y: .234378904}
+    - {x: .449222654, y: .449214846}
+    - {x: .585933566, y: .234378904}
+    - {x: .585933566, y: .449214846}
+    indices: 000000000300000001000000020000000300000000000000040000000700000005000000060000000700000004000000080000000b000000090000000a0000000b00000008000000
+    material: {fileID: 2100000, guid: a24956fa70276574c9b52b4f6736e9fa, type: 2}
+    materialId: 0
+    sourceTextureGUID: 4c4cf71e81e3e41448815443d0b59de2
+    extractRegion: 1
+    regionX: 0
+    regionY: 183
+    regionW: 60
+    regionH: 165
+    flipped: 0
+    complexGeometry: 0
+    physicsEngine: 0
+    colliderType: 0
+    customColliders: []
+    colliderVertices: []
+    colliderIndicesFwd: 
+    colliderIndicesBack: 
+    colliderConvex: 0
+    colliderSmoothSphereCollisions: 0
+    polygonCollider2D: []
+    edgeCollider2D: []
+    attachPoints: []
+  - name: idleanimation/3
+    boundsData:
+    - {x: .03125, y: -.03125, z: 0}
+    - {x: 1.8125, y: 5.0625, z: 0}
+    untrimmedBoundsData:
+    - {x: 0, y: -.015625, z: 0}
+    - {x: 1.875, y: 5.15625, z: 0}
+    texelSize: {x: .03125, y: .03125}
+    positions:
+    - {x: -.875, y: -2.5625, z: 0}
+    - {x: .8125, y: -2.5625, z: 0}
+    - {x: -.875, y: -.59375006, z: 0}
+    - {x: .8125, y: -.59375006, z: 0}
+    - {x: -.71875, y: -.59375006, z: 0}
+    - {x: .87499994, y: -.59375006, z: 0}
+    - {x: -.71875, y: 1.40624988, z: 0}
+    - {x: .87499994, y: 1.40624988, z: 0}
+    - {x: -.78125, y: 1.40624988, z: 0}
+    - {x: .9375, y: 1.40624988, z: 0}
+    - {x: -.78125, y: 2.5, z: 0}
+    - {x: .9375, y: 2.5, z: 0}
+    normals: []
+    tangents: []
+    uvs:
+    - {x: .00781640597, y: .269535154}
+    - {x: .218746096, y: .269535154}
+    - {x: .00781640597, y: .515621066}
+    - {x: .218746096, y: .515621066}
+    - {x: .00781640597, y: .792972684}
+    - {x: .00781640597, y: .992183566}
+    - {x: .257808596, y: .792972684}
+    - {x: .257808596, y: .992183566}
+    - {x: .496097654, y: .00781640597}
+    - {x: .710933566, y: .00781640597}
+    - {x: .496097654, y: .144527346}
+    - {x: .710933566, y: .144527346}
+    indices: 000000000300000001000000020000000300000000000000040000000700000005000000060000000700000004000000080000000b000000090000000a0000000b00000008000000
+    material: {fileID: 2100000, guid: a24956fa70276574c9b52b4f6736e9fa, type: 2}
+    materialId: 0
+    sourceTextureGUID: 4c4cf71e81e3e41448815443d0b59de2
+    extractRegion: 1
+    regionX: 60
+    regionY: 183
+    regionW: 60
+    regionH: 165
+    flipped: 0
+    complexGeometry: 0
+    physicsEngine: 0
+    colliderType: 0
+    customColliders: []
+    colliderVertices: []
+    colliderIndicesFwd: 
+    colliderIndicesBack: 
+    colliderConvex: 0
+    colliderSmoothSphereCollisions: 0
+    polygonCollider2D: []
+    edgeCollider2D: []
+    attachPoints: []
+  - name: idleanimation/4
+    boundsData:
+    - {x: .03125, y: -.03125, z: 0}
+    - {x: 1.8125, y: 5.0625, z: 0}
+    untrimmedBoundsData:
+    - {x: 0, y: -.015625, z: 0}
+    - {x: 1.875, y: 5.15625, z: 0}
+    texelSize: {x: .03125, y: .03125}
+    positions:
+    - {x: -.875, y: -2.5625, z: 0}
+    - {x: .8125, y: -2.5625, z: 0}
+    - {x: -.875, y: -.59375006, z: 0}
+    - {x: .8125, y: -.59375006, z: 0}
+    - {x: -.71875, y: -.59375006, z: 0}
+    - {x: .87499994, y: -.59375006, z: 0}
+    - {x: -.71875, y: 1.40624988, z: 0}
+    - {x: .87499994, y: 1.40624988, z: 0}
+    - {x: -.78125, y: 1.40624988, z: 0}
+    - {x: .9375, y: 1.40624988, z: 0}
+    - {x: -.78125, y: 2.5, z: 0}
+    - {x: .9375, y: 2.5, z: 0}
+    normals: []
+    tangents: []
+    uvs:
+    - {x: .00781640597, y: .531253934}
+    - {x: .218746096, y: .531253934}
+    - {x: .00781640597, y: .777339816}
+    - {x: .218746096, y: .777339816}
+    - {x: .234378904, y: .234378904}
+    - {x: .433589846, y: .234378904}
+    - {x: .234378904, y: .484371096}
+    - {x: .433589846, y: .484371096}
+    - {x: .449222654, y: .464847654}
+    - {x: .449222654, y: .679683566}
+    - {x: .585933566, y: .464847654}
+    - {x: .585933566, y: .679683566}
+    indices: 000000000300000001000000020000000300000000000000040000000700000005000000060000000700000004000000080000000b000000090000000a0000000b00000008000000
+    material: {fileID: 2100000, guid: a24956fa70276574c9b52b4f6736e9fa, type: 2}
+    materialId: 0
+    sourceTextureGUID: 4c4cf71e81e3e41448815443d0b59de2
+    extractRegion: 1
+    regionX: 0
+    regionY: 19
+    regionW: 60
+    regionH: 165
+    flipped: 0
+    complexGeometry: 0
+    physicsEngine: 0
+    colliderType: 0
+    customColliders: []
+    colliderVertices: []
+    colliderIndicesFwd: 
+    colliderIndicesBack: 
+    colliderConvex: 0
+    colliderSmoothSphereCollisions: 0
+    polygonCollider2D: []
+    edgeCollider2D: []
+    attachPoints: []
+  - name: idleanimation/5
+    boundsData:
+    - {x: .03125, y: -.03125, z: 0}
+    - {x: 1.8125, y: 5.0625, z: 0}
+    untrimmedBoundsData:
+    - {x: 0, y: -.015625, z: 0}
+    - {x: 1.875, y: 5.15625, z: 0}
+    texelSize: {x: .03125, y: .03125}
+    positions:
+    - {x: -.875, y: -2.5625, z: 0}
+    - {x: .8125, y: -2.5625, z: 0}
+    - {x: -.875, y: -.59375006, z: 0}
+    - {x: .8125, y: -.59375006, z: 0}
+    - {x: -.71875, y: -.59375006, z: 0}
+    - {x: .87499994, y: -.59375006, z: 0}
+    - {x: -.71875, y: 1.40624988, z: 0}
+    - {x: .87499994, y: 1.40624988, z: 0}
+    - {x: -.78125, y: 1.40624988, z: 0}
+    - {x: .9375, y: 1.40624988, z: 0}
+    - {x: -.78125, y: 2.5, z: 0}
+    - {x: .9375, y: 2.5, z: 0}
+    normals: []
+    tangents: []
+    uvs:
+    - {x: .234378904, y: .00781640597}
+    - {x: .234378904, y: .218746096}
+    - {x: .480464846, y: .00781640597}
+    - {x: .480464846, y: .218746096}
+    - {x: .234378904, y: .500003934}
+    - {x: .433589846, y: .500003934}
+    - {x: .234378904, y: .749996066}
+    - {x: .433589846, y: .749996066}
+    - {x: .578128934, y: .695316434}
+    - {x: .578128934, y: .910152316}
+    - {x: .714839816, y: .695316434}
+    - {x: .714839816, y: .910152316}
+    indices: 000000000300000001000000020000000300000000000000040000000700000005000000060000000700000004000000080000000b000000090000000a0000000b00000008000000
+    material: {fileID: 2100000, guid: a24956fa70276574c9b52b4f6736e9fa, type: 2}
+    materialId: 0
+    sourceTextureGUID: 4c4cf71e81e3e41448815443d0b59de2
+    extractRegion: 1
+    regionX: 60
+    regionY: 19
+    regionW: 60
+    regionH: 165
+    flipped: 0
+    complexGeometry: 0
+    physicsEngine: 0
+    colliderType: 0
+    customColliders: []
+    colliderVertices: []
+    colliderIndicesFwd: 
+    colliderIndicesBack: 
+    colliderConvex: 0
+    colliderSmoothSphereCollisions: 0
+    polygonCollider2D: []
+    edgeCollider2D: []
+    attachPoints: []
+  premultipliedAlpha: 0
+  material: {fileID: 0}
+  materials:
+  - {fileID: 2100000, guid: a24956fa70276574c9b52b4f6736e9fa, type: 2}
+  textures:
+  - {fileID: 2800000, guid: cb0b4c7544c9d964a9aec907c59c29bb, type: 3}
+  pngTextures: []
+  materialPngTextureId: 00000000
+  textureFilterMode: 1
+  textureMipMaps: 0
+  allowMultipleAtlases: 0
+  spriteCollectionGUID: a0339ede826f5cf42b2ed9d6c37c1cee
+  spriteCollectionName: NilanIdleSheet
+  assetName: 
+  loadable: 0
+  invOrthoSize: 2
+  halfTargetHeight: 16
+  buildKey: 1566514579
+  dataGuid: c467ea759175ea54ab0fbac282100511
+  managedSpriteCollection: 0
+  hasPlatformData: 0
+  spriteCollectionPlatforms: []
+  spriteCollectionPlatformGUIDs: []
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 100000}
+  m_IsPrefabParent: 1
+  m_IsExploded: 1

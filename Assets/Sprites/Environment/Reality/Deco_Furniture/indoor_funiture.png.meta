@@ -1,0 +1,446 @@
+fileFormatVersion: 2
+guid: 97231d0cc38c4c641ba626759ae64146
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 0
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 6
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 8
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: indoor_funiture_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 212
+        width: 34
+        height: 64
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoor_funiture_1
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 212
+        width: 34
+        height: 64
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoor_funiture_2
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 212
+        width: 57
+        height: 64
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoor_funiture_3
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 211
+        width: 34
+        height: 64
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoor_funiture_4
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 211
+        width: 34
+        height: 64
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoor_funiture_5
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 211
+        width: 57
+        height: 64
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoor_funiture_6
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 211
+        width: 38
+        height: 61
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoor_funiture_7
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 211
+        width: 38
+        height: 61
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoor_funiture_8
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 209
+        width: 34
+        height: 64
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoor_funiture_9
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 210
+        width: 58
+        height: 71
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoor_funiture_10
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 140
+        width: 34
+        height: 65
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoor_funiture_11
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 144
+        width: 32
+        height: 33
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoor_funiture_12
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 142
+        width: 47
+        height: 59
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoor_funiture_13
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 161
+        width: 35
+        height: 15
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoor_funiture_14
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 148
+        width: 34
+        height: 31
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoor_funiture_15
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 147
+        width: 34
+        height: 53
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoor_funiture_16
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 146
+        width: 34
+        height: 47
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoor_funiture_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 85
+        width: 57
+        height: 45
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoor_funiture_18
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 84
+        width: 34
+        height: 47
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoor_funiture_19
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 86
+        width: 38
+        height: 42
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoor_funiture_20
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 86
+        width: 38
+        height: 44
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoor_funiture_21
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 85
+        width: 34
+        height: 51
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoor_funiture_22
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 86
+        width: 29
+        height: 40
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoor_funiture_23
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 86
+        width: 32
+        height: 43
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoor_funiture_24
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 86
+        width: 32
+        height: 37
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoor_funiture_25
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 82
+        width: 52
+        height: 53
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoor_funiture_26
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 82
+        width: 52
+        height: 49
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoor_funiture_27
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 84
+        width: 32
+        height: 49
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoor_funiture_28
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 29
+        height: 70
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoor_funiture_29
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 0
+        width: 32
+        height: 76
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoor_funiture_30
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1
+        width: 15
+        height: 73
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoor_funiture_31
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 3
+        width: 21
+        height: 73
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoor_funiture_32
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 3
+        width: 57
+        height: 64
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoor_funiture_33
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 3
+        width: 34
+        height: 64
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoor_funiture_34
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 3
+        width: 34
+        height: 64
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoor_funiture_35
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 3
+        width: 34
+        height: 73
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoor_funiture_36
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 3
+        width: 20
+        height: 57
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoor_funiture_37
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 3
+        width: 57
+        height: 76
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoor_funiture_38
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 3
+        width: 57
+        height: 72
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indoor_funiture_39
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 25
+        width: 32
+        height: 49
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

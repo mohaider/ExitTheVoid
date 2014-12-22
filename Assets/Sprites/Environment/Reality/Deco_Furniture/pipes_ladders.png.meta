@@ -1,0 +1,1086 @@
+fileFormatVersion: 2
+guid: 6a489c4be5670554eb82216a4405d6ad
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 0
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 8
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: pipes_ladders_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 375
+        width: 20
+        height: 18
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pipes_ladders_1
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 379
+        width: 14
+        height: 25
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pipes_ladders_2
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 375
+        width: 10
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pipes_ladders_3
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 385
+        width: 16
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pipes_ladders_4
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 375
+        width: 10
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pipes_ladders_5
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 374
+        width: 19
+        height: 18
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pipes_ladders_6
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 378
+        width: 12
+        height: 25
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pipes_ladders_7
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 372
+        width: 19
+        height: 20
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pipes_ladders_8
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 375
+        width: 10
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pipes_ladders_9
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 385
+        width: 16
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pipes_ladders_10
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 375
+        width: 10
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pipes_ladders_11
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 344
+        width: 46
+        height: 67
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pipes_ladders_12
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 364
+        width: 98
+        height: 47
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pipes_ladders_13
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 336
+        width: 96
+        height: 76
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pipes_ladders_14
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 388
+        width: 21
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pipes_ladders_15
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 372
+        width: 16
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pipes_ladders_16
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 372
+        width: 16
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pipes_ladders_17
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 363
+        width: 16
+        height: 25
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pipes_ladders_18
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 344
+        width: 24
+        height: 44
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pipes_ladders_19
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 344
+        width: 21
+        height: 37
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pipes_ladders_20
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 356
+        width: 20
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pipes_ladders_21
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 356
+        width: 22
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pipes_ladders_22
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 353
+        width: 13
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pipes_ladders_23
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 353
+        width: 13
+        height: 17
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pipes_ladders_24
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 355
+        width: 19
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pipes_ladders_25
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 347
+        width: 12
+        height: 23
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pipes_ladders_26
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 355
+        width: 19
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pipes_ladders_27
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 353
+        width: 13
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pipes_ladders_28
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 353
+        width: 15
+        height: 17
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pipes_ladders_29
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 320
+        width: 66
+        height: 11
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pipes_ladders_30
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 319
+        width: 66
+        height: 14
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pipes_ladders_31
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 248
+        width: 28
+        height: 80
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pipes_ladders_32
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 248
+        width: 25
+        height: 80
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pipes_ladders_33
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 246
+        width: 25
+        height: 79
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pipes_ladders_34
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 258
+        width: 58
+        height: 52
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pipes_ladders_35
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 280
+        width: 62
+        height: 33
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pipes_ladders_36
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 264
+        width: 20
+        height: 45
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pipes_ladders_37
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 280
+        width: 16
+        height: 29
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pipes_ladders_38
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 264
+        width: 20
+        height: 45
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pipes_ladders_39
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 256
+        width: 58
+        height: 57
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pipes_ladders_40
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 284
+        width: 64
+        height: 31
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pipes_ladders_41
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 264
+        width: 16
+        height: 47
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pipes_ladders_42
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 282
+        width: 16
+        height: 29
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pipes_ladders_43
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 266
+        width: 17
+        height: 46
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pipes_ladders_44
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 298
+        width: 18
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pipes_ladders_45
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 301
+        width: 8
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pipes_ladders_46
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 284
+        width: 18
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pipes_ladders_47
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 285
+        width: 11
+        height: 11
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pipes_ladders_48
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 285
+        width: 11
+        height: 11
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pipes_ladders_49
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 248
+        width: 64
+        height: 29
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pipes_ladders_50
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 247
+        width: 63
+        height: 33
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pipes_ladders_51
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 272
+        width: 18
+        height: 9
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pipes_ladders_52
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 270
+        width: 12
+        height: 11
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pipes_ladders_53
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 270
+        width: 12
+        height: 11
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pipes_ladders_54
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 182
+        width: 37
+        height: 53
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pipes_ladders_55
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 198
+        width: 30
+        height: 36
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pipes_ladders_56
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 232
+        width: 19
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pipes_ladders_57
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 233
+        width: 17
+        height: 12
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pipes_ladders_58
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 182
+        width: 22
+        height: 50
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pipes_ladders_59
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 204
+        width: 13
+        height: 19
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pipes_ladders_60
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 193
+        width: 14
+        height: 30
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pipes_ladders_61
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 185
+        width: 24
+        height: 41
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pipes_ladders_62
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 185
+        width: 18
+        height: 41
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pipes_ladders_63
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 185
+        width: 24
+        height: 41
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pipes_ladders_64
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 196
+        width: 25
+        height: 36
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pipes_ladders_65
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 167
+        width: 21
+        height: 66
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pipes_ladders_66
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 167
+        width: 21
+        height: 66
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pipes_ladders_67
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 167
+        width: 21
+        height: 66
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pipes_ladders_68
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 167
+        width: 5
+        height: 60
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pipes_ladders_69
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 165
+        width: 30
+        height: 56
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pipes_ladders_70
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 163
+        width: 8
+        height: 66
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pipes_ladders_71
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 178
+        width: 10
+        height: 34
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pipes_ladders_72
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 176
+        width: 13
+        height: 36
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pipes_ladders_73
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 172
+        width: 22
+        height: 45
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pipes_ladders_74
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 60
+        width: 32
+        height: 145
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pipes_ladders_75
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 140
+        width: 37
+        height: 53
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pipes_ladders_76
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 182
+        width: 24
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pipes_ladders_77
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 141
+        width: 11
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pipes_ladders_78
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 141
+        width: 21
+        height: 35
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pipes_ladders_79
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 170
+        width: 24
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pipes_ladders_80
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 87
+        width: 31
+        height: 71
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pipes_ladders_81
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 87
+        width: 31
+        height: 71
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pipes_ladders_82
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 87
+        width: 31
+        height: 71
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pipes_ladders_83
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 134
+        width: 20
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pipes_ladders_84
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 122
+        width: 32
+        height: 26
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pipes_ladders_85
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 137
+        width: 64
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pipes_ladders_86
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 60
+        width: 98
+        height: 101
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pipes_ladders_87
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 110
+        width: 32
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pipes_ladders_88
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 100
+        width: 35
+        height: 35
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pipes_ladders_89
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 103
+        width: 16
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pipes_ladders_90
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 97
+        width: 16
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pipes_ladders_91
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 97
+        width: 16
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pipes_ladders_92
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 97
+        width: 16
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pipes_ladders_93
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 88
+        width: 32
+        height: 29
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pipes_ladders_94
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 84
+        width: 32
+        height: 11
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pipes_ladders_95
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 87
+        width: 20
+        height: 11
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pipes_ladders_96
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 0
+        width: 29
+        height: 72
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pipes_ladders_97
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 0
+        width: 28
+        height: 72
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pipes_ladders_98
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 0
+        width: 28
+        height: 72
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pipes_ladders_99
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 0
+        width: 28
+        height: 72
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pipes_ladders_100
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 2
+        width: 27
+        height: 56
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pipes_ladders_101
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 0
+        width: 31
+        height: 64
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pipes_ladders_102
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 34
+        width: 152
+        height: 20
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pipes_ladders_103
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 348
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
