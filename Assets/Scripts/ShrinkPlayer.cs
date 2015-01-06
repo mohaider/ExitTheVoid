@@ -78,13 +78,20 @@ public class ShrinkPlayer : MonoBehaviour {
 					//
 				//	
 				}
-				shade.LerpToVoidColor();
+				
 
 			}
 			if (transform.localScale.x >=1f)
-				transform.localScale =Vector3.one;
+            {
+                transform.localScale =Vector3.one;
+                shade.ResetToVoidColor();
+            }
+            else
+                shade.LerpToVoidColor();
+				
 			shade.Warning(false);
-
+          ;
+           
 			//
 
 

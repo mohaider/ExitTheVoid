@@ -75,11 +75,14 @@ public class PlayerControl : MonoBehaviour {
 	}
     void UpdateInfo()
     {
-        info.guiText.text = "";
-        for (int i = 0; i < information.Length; i++)
+        if (info != null)
         {
-            info.guiText.text += information[i];
-            info.guiText.text += "\n";
+            info.guiText.text = "";
+            for (int i = 0; i < information.Length; i++)
+            {
+                info.guiText.text += information[i];
+                info.guiText.text += "\n";
+            }
         }
     }
 

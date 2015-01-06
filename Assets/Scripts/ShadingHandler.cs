@@ -61,6 +61,11 @@ public class ShadingHandler : MonoBehaviour {
 		//	gameObject.renderer.material.SetColor ("_Color",nextColor);
 
 		//}
+
+        //Reset the reality color while in the void.
+            nextColor = Vector4.Lerp(nextColor, originalColor, Time.deltaTime * transparencySpeed);
+
+            print(nextColor);
 	}
 	public void ResetToVoidColor()
 	{
@@ -69,7 +74,11 @@ public class ShadingHandler : MonoBehaviour {
 		gameObject.renderer.material.SetFloat("_EffectAmount",1f);
 
 	}
-
+    /**
+     * 
+     * 
+     * 
+     * **/
 	public void LerpToRealityColor()
 	{
 	
